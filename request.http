@@ -1,0 +1,2 @@
+POST http://localhost:4004/odata/v4/dummy/test
+Content-Type: application/json
